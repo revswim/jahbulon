@@ -4,9 +4,9 @@ baseURL: "/"
 params:
   palette: yellow
   header:
-    title: Fjord
-    tagline: Minimal and clean blog theme
-    logo_img: images/logo.png
+    title: Jahbulon
+    tagline: "(The 3 headed alien that rules you)"
+    logo_img: "/images/logo4.png"
     bg_img: images/header-bg.jpg
     has_nav: true
     has_social: true
