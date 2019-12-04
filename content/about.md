@@ -11,4 +11,4 @@ menu:
 ---
 **Jah-bul-on** lives down by the river.
 
-![](/images/river6.jpg)
+![](/images/river6-1.jpg)
