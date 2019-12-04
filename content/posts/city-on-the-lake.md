@@ -1,10 +1,10 @@
 +++
 content_img_path = ""
 date = 2019-12-03T05:00:00Z
-excerpt = ""
+excerpt = "I'm kind of a big deal in my hometown."
 hide_header = false
 layout = "post"
-subtitle = "My domocile"
+subtitle = "My Domocile"
 thumb_img_path = "/images/city6.jpg"
 title = "City on the Lake"
 
