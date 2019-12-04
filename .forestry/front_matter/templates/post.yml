@@ -44,5 +44,4 @@ fields:
     required: true
 pages:
 - content/posts/city-on-the-lake.md
-- content/posts/working-from-home.md
 - content/posts/photography.md
