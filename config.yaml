@@ -7,7 +7,7 @@ params:
     title: Jahbulon
     tagline: "(The 3 headed alien that rules you)"
     logo_img: "/images/logo4.png"
-    bg_img: "/images/alien5.jpg"
+    bg_img: "/images/alien6.jpg"
     has_nav: true
     has_social: true
   footer:
